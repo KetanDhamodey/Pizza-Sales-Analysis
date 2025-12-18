@@ -43,5 +43,4 @@ Pizza sales data often contains large volumes of transactional records, making i
 - Supports data-driven decisions for promotions, inventory planning, and sales strategy
 
 ## 5. Screenshots / Demos
-![Alt text](https://github.com/username/repo/assets/image.png)
-![Dashboard preview].(https://github.com/KetanDhamodey/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Report.png)
+![Dashboard Preview](https://github.com/KetanDhamodey/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Report.png)
